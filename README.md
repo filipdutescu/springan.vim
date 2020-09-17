@@ -1,7 +1,7 @@
 # springan.vim
 
 <p align="center">
-  <img src="https://github.com/filipdutescu/springan.vim/raw/master/img/springan.vim.png" alt="springan.vim colours"/>
+  <img width="762" height="544" src="https://github.com/filipdutescu/springan.vim/raw/master/img/springan.vim.png" alt="springan.vim colours"/>
 </p>
 
 A dark Vim/Neovim colour scheme for the GUI and 16/256/true-color terminals.
