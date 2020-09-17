@@ -4,10 +4,10 @@ A dark Vim/Neovim colour scheme for the GUI and 16/256/true-color terminals.
 
 ## Colour reference
 
-![springan.vim](https://raw.githubusercontent.com/filipdutescu/spingan.vim/master/img/colours.png)
+![springan.vim](https://raw.githubusercontent.com/filipdutescu/spingan.vim/master/img/colours.png "springan.vim colours")
 
 | Colour  | Normal  | Bright  |
-|-----------------------------|
+|---------|:-------:|:-------:|
 | Black   | #26292B | #303436 |
 | Red     | #C16A6D | #CF8C8E |
 | Green   | #8AB97B | #A1C794 |
