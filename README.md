@@ -4,7 +4,9 @@ A dark Vim/Neovim colour scheme for the GUI and 16/256/true-color terminals.
 
 ## Colour reference
 
-![springan.vim](https://github.com/filipdutescu/springan.vim/raw/master/img/colours.png "springan.vim colours")
+<p align="center">
+  <img src="https://github.com/filipdutescu/springan.vim/raw/master/img/colours.png" alt="springan.vim colours"/>
+</p>
 
 | Colour  | Normal  | Bright  |
 |---------|:-------:|:-------:|
