@@ -2,6 +2,7 @@
 " black
 let s:gui00 = "26292B"
 let s:gui08 = "303436"
+
 " red
 let s:gui01 = "C16A6D"
 let s:gui09 = "CF8C8E"
@@ -172,7 +173,7 @@ call <sid>hi("CursorColumn",  "", s:gui01, "", s:cterm01, "none", "")
 call <sid>hi("CursorLine",    "", s:gui01, "", s:cterm01, "none", "")
 call <sid>hi("CursorLineNr",  s:gui04, s:gui00, s:cterm04, s:cterm01, "", "")
 call <sid>hi("QuickFixLine",  "", s:gui01, "", s:cterm01, "none", "")
-call <sid>hi("PMenu",         s:gui01, s:gui15, s:cterm01, s:cterm15, "none", "")
+call <sid>hi("PMenu",         s:gui06, s:gui08, s:cterm06, s:cterm08, "none", "")
 call <sid>hi("PMenuSel",      s:gui07, s:gui05, s:cterm07, s:cterm05, "", "")
 call <sid>hi("TabLine",       s:gui03, s:gui01, s:cterm03, s:cterm01, "none", "")
 call <sid>hi("TabLineFill",   s:gui03, s:gui01, s:cterm03, s:cterm01, "none", "")
