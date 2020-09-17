@@ -1,7 +1,7 @@
 " GUI color definitions
 " black
 let s:gui00 = "26292B"
-let s:gui08 = "303436"
+let s:gui07 = "303436"
 " red
 let s:gui01 = "C16A6D"
 let s:gui09 = "CF8C8E"
@@ -21,7 +21,7 @@ let s:gui13 = "C193C8"
 let s:gui06 = "7BB0B9"
 let s:gui14 = "94BFC7"
 " white
-let s:gui07 = "D3D0CB"
+let s:gui08 = "D3D0CB"
 let s:gui15 = "E7E5DF"
 
 " Terminal color definitions
