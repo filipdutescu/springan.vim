@@ -1,17 +1,17 @@
 " GUI color definitions
 " black
-let s:gui00 = "26292B"
+let s:gui00 = "1E1F21"
 let s:gui08 = "303436"
 
 " red
 let s:gui01 = "C16A6D"
-let s:gui09 = "CF8C8E"
+let s:gui09 = "C97E80"
 " green
 let s:gui02 = "8AB97B"
 let s:gui10 = "A1C794"
 " yellow
-let s:gui03 = "DBA057"
-let s:gui11 = "E2B378"
+let s:gui03 = "C9C76B"
+let s:gui11 = "D3D175"
 " blue
 let s:gui04 = "7B82B9"
 let s:gui12 = "949AC7"
