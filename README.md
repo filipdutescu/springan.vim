@@ -14,10 +14,10 @@ A dark Vim/Neovim colour scheme for the GUI and 16/256/true-color terminals.
 
 | Colour  | Normal           | Bright            |
 |---------|:----------------:|:-----------------:|
-| Black   | #26292B (color0) | #303436 (color8)  |
-| Red     | #C16A6D (color1) | #CF8C8E (color9)  |
+| Black   | #1E1F21 (color0) | #303436 (color8)  |
+| Red     | #C16A6D (color1) | #C97E80 (color9)  |
 | Green   | #8AB97B (color2) | #A1C794 (color10) |
-| Yellow  | #DBA057 (color3) | #E2B378 (color11) |
+| Yellow  | #C9C76B (color3) | #D3D175 (color11) |
 | Blue    | #7B82B9 (color4) | #949AC7 (color12) |
 | Magenta | #B17ABA (color5) | #C193C8 (color13) |
 | Cyan    | #7BB0B9 (color6) | #94BFC7 (color14) |
