@@ -134,7 +134,7 @@ fun <sid>hi(group, guifg, guibg, ctermfg, ctermbg, attr, guisp)
 endfun
 
 " Vim editor colors
-call <sid>hi("Normal",        s:gui05, s:gui00, s:cterm05, s:cterm00, "", "")
+call <sid>hi("Normal",        s:gui07, s:gui00, s:cterm07, s:cterm00, "", "")
 call <sid>hi("Bold",          "", "", "", "", "bold", "")
 call <sid>hi("Debug",         s:gui09, "", s:cterm09, "", "", "")
 call <sid>hi("Directory",     s:gui13, "", s:cterm13, "", "", "")
