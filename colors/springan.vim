@@ -360,6 +360,9 @@ call <sid>hi("StartifySpecial",  s:gui03, "", s:cterm03, "", "", "")
 " Java highlighting
 call <sid>hi("javaOperator",     s:gui13, "", s:cterm13, "", "", "")
 
+" C/C++ highlighting
+call <sid>hi("LspCxxHlGroupMemberVariable", s:gui07, "", s:cterm07, "", "", "")
+
 " Remove functions
 delf <sid>hi
 
